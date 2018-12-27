@@ -1,4 +1,4 @@
-package com.ridvancopur.rest.RestApp;
+package com.ridvancopur;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

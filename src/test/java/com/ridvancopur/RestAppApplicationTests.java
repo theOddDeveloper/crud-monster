@@ -1,4 +1,4 @@
-package com.ridvancopur.rest.RestApp;
+package com.ridvancopur;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
